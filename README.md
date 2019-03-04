@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;The code was tested with jython version 2.7.0
 
-&nbsp;&nbsp;Requires jython 2.7.0:  
+&nbsp;&nbsp;**Requires jython 2.7.0:**  
 &nbsp;&nbsp;Jython Installation Webpage: **https://www.jython.org/archive/22/installation.html**    
 
 &nbsp;&nbsp;**To Run Neural Network Tests:**  
