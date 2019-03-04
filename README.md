@@ -6,8 +6,6 @@
 &nbsp;&nbsp;https://github.com/JonathanTay/CS-7641-assignment-2  
 
 
-&nbsp;&nbsp;The code was tested with jython version 2.7.0
-
 &nbsp;&nbsp;**Requires jython 2.7.0:**  
 &nbsp;&nbsp;Jython Installation Webpage: **https://www.jython.org/archive/22/installation.html**    
 
@@ -25,4 +23,7 @@
 
 
 &nbsp;&nbsp;**Note:**  
-&nbsp;&nbsp;Change the path to your local directory where the ABAGAIL.jar is located before running the py files   
+&nbsp;&nbsp;-Change the path to your local directory where the ABAGAIL.jar is located before running the py files   
+&nbsp;&nbsp;-The "results" folder contains the test results in a single zipped file   
+
+
