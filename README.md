@@ -22,3 +22,7 @@
 &nbsp;&nbsp;jython flipflip.py  
 &nbsp;&nbsp;jython knapsack.py  
 &nbsp;&nbsp;jython tsp.py  
+
+
+&nbsp;&nbsp;**Note:**  
+&nbsp;&nbsp;Change the path to your local directory where the ABAGAIL.jar is located before running the py files   
